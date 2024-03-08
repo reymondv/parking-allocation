@@ -1,0 +1,2 @@
+class ParkingLog < ApplicationRecord
+end
